@@ -1,5 +1,8 @@
 README.md
-                          SIMON GAME 
+             
+	     
+	     
+	     SIMON GAME 
 
 With the group, we chose a game for the project called “Simon”. This game is the online 
 version of the Simon electronic game with its circular design and its 4 big, illuminated 
