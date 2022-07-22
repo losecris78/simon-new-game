@@ -18,7 +18,7 @@ class Director:
             Button('green',   (0, 255, 0),    50, 250, 200, 200),
             Button('red',   (255, 0, 0), 250, 250, 200, 200)]
         self._gameover = pygame.mixer.Sound(
-            'simon-game/sounds/videogamefin.wav')
+            'simon-new-game/sounds/videogamefin.wav')
 
     def new_sequence(self):
         """generate a sequence of n steps."""

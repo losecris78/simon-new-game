@@ -14,7 +14,7 @@ def main():
 
     game = Director()
     game.new_sequence()
-    press = pygame.mixer.Sound('simon-game/sounds/touch.wav')
+    press = pygame.mixer.Sound('simon-new-game/sounds/touch.wav')
     running = True
 
     while running:
